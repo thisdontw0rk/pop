@@ -2,7 +2,7 @@
 ## Haseeb Tahir 10190846
 
 
-- Navigate to the Assignment3 Directory If you are not in it already. 
+- Navigate to the Assignment3 Directory 
 
 ```bash
 cd assignment3
@@ -35,13 +35,20 @@ kubectl apply -f app-2-ingress.yaml
 ```
 
 
-Once You have Ran One of These Two Methods You should see an output similar to this (if using method1):
+Once You have Ran One of These Two Methods You should see an output similar to this 
 <img width="682" alt="Screenshot 2024-04-09 at 10 05 03 PM" src="https://github.com/thisdontw0rk/pop/assets/144601350/45d495c0-5927-4aaa-b106-365a35c45954">
 
 
 Here is the output showcasing the `kubectl get all command`
 <img width="677" alt="Screenshot 2024-04-09 at 10 05 43 PM" src="https://github.com/thisdontw0rk/pop/assets/144601350/684856d7-b777-4a26-bb87-62fae14f2217">
 
+Verify that all pods are running:
+<img width="677" alt="Screenshot 2024-04-09 at 10 05 43 PM" src="https://github.com/thisdontw0rk/pop/assets/144601350/a4325f91-2469-47b9-a8e7-abb7d42f656b">
+
+ Ensure that services are created:
+ <img width="677" alt="Screenshot 2024-04-09 at 10 06 30 PM" src="https://github.com/thisdontw0rk/pop/assets/144601350/f1852e04-121e-48ab-8ca2-96dbae28e64e">
+
+ 
 
 If you are having troubles with the initial set up or configuration you can run the following and then rerun the commands at the start
 

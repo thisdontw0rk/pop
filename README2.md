@@ -33,7 +33,7 @@ kubectl apply -f app-2-ingress.yaml
 
 
 Once You have Ran One of These Two Methods You should see an output similar to this (if using method1):
-![image](https://github.com/Hamd-Khan/ensf400-lab8-kubernetes-2/blob/main/assignment3/Screen%20Shot%202024-04-09%20at%2010.58.26%20AM.png)
+<img width="682" alt="Screenshot 2024-04-09 at 10 05 03 PM" src="https://github.com/thisdontw0rk/pop/assets/144601350/45d495c0-5927-4aaa-b106-365a35c45954">
 
 Here Is An Example of The Curl Command Running
 ![image](https://github.com/Hamd-Khan/ensf400-lab8-kubernetes-2/blob/main/assignment3/Screen%20Shot%202024-04-09%20at%2010.55.51%20AM.png)

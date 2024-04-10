@@ -1,5 +1,5 @@
 ### Assignment 3 Instructions
-## Hamd Khan 30143419
+## Haseeb Tahir 10190846
 
 
 - Navigate to the Assignment3 Directory If you are not in it already. 
@@ -38,8 +38,7 @@ Once You have Ran One of These Two Methods You should see an output similar to t
 Here Is An Example of The Curl Command Running
 ![image](https://github.com/Hamd-Khan/ensf400-lab8-kubernetes-2/blob/main/assignment3/Screen%20Shot%202024-04-09%20at%2010.55.51%20AM.png)
 
-Here Is the output showcasing the deployments active while the command is running
-![image](https://github.com/Hamd-Khan/ensf400-lab8-kubernetes-2/blob/main/assignment3/Screen%20Shot%202024-04-09%20at%2011.00.22%20AM.png)
+
 
 Here is the output showcasing the `kubectl get all command`
 ![image](https://github.com/Hamd-Khan/ensf400-lab8-kubernetes-2/blob/main/assignment3/Screen%20Shot%202024-04-09%20at%2011.01.58%20AM.png)

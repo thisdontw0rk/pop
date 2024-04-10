@@ -16,7 +16,7 @@ cd assignment3
 minikube start
 minikube addons enable ingress
 kubectl apply -f '*.yaml'
-curl http://$(minikube ip)/![Uploading Screenshot 2024-04-07 at 11.20.41 PM.png…]()
+curl http://$(minikube ip)/
 
 ```
 
